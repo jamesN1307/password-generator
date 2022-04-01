@@ -26,3 +26,6 @@ ________________________________________________________________________________
 
 https://user-images.githubusercontent.com/97413286/161188937-47b79532-d89b-4ed9-a801-ab9a9a05c9c5.mp4
 
+link to my work:
+URL: https://jamesn1307.github.io/password-generator/
+https://github.com/jamesN1307/password-generator
